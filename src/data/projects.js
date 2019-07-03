@@ -13,19 +13,10 @@ const PROJECTS = [
     },
     {
         id: 2,
-        title: 'My API',
-        description: 'A REST API that I built from sratch with GET and POST requests!',
-        link: 'https://github.com/fzaman6505',
+        title: 'Temperature-Converter',
+        description: 'An application that I built using HTML, CSS, and JavaScript! ',
+        link: 'https://github.com/fzaman6505/Temperature-Converter-App',
         image: project2
-    },
-
-    {
-        id: 3,
-        title: 'Operating Systems Final Project',
-        description: 'My unique final project for my university Operating Systems course.',
-        link: 'https://github.com/fzaman6505',
-        image: project3
-         
     }
 ];
 
